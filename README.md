@@ -27,7 +27,7 @@ The dataset provides detailed information about pizza orders, including total pr
 - **Total Orders**: Count of distinct orders.
 - **Average Order Amount**: Understanding customer spending patterns.
 
-### Dashboard
+### Power BI Dashboard
 A comprehensive Power BI dashboard was created to visualize and analyze the data. The dashboard includes various charts and graphs to represent:
 
 ![Home](https://github.com/user-attachments/assets/e3eb43aa-fc89-42e2-b581-59fb759fad6a)
@@ -40,6 +40,8 @@ A comprehensive Power BI dashboard was created to visualize and analyze the data
 - Daily and Monthly Sales Trends.
 - Percentage Sales by Pizza Category and Size.
 
+### SQL Queries and Answers
+Check the SQL work done for this project.[Pizza Sales SQL Queries.pdf](https://github.com/user-attachments/files/16498555/Pizza.Sales.SQL.Queries.pdf)
 ### Insights
 Key insights from the analysis include:
 
@@ -68,4 +70,3 @@ The analysis identified potential challenges, including:
 
 ### Conclusion
 This Power BI analysis has unveiled critical insights that can guide business decisions. By understanding sales data and customer preferences, the pizza business can optimize offerings and enhance growth. Continuous monitoring and adaptation to changing trends will be key to sustained success.
-![Uploading image.png…]()
