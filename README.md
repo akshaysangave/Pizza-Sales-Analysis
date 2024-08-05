@@ -28,6 +28,11 @@ The dataset provides detailed information about pizza orders, including total pr
 ### Dashboard
 A comprehensive Power BI dashboard was created to visualize and analyze the data. The dashboard includes various charts and graphs to represent:
 
+![Home](https://github.com/user-attachments/assets/e3eb43aa-fc89-42e2-b581-59fb759fad6a)
+
+
+![2nd Page](https://github.com/user-attachments/assets/949685fd-7d33-4144-9b7b-01c262588dc9)
+
 - Top and Bottom Performers by order and quantity sold.
 - Sales by Pizza Size and Category.
 - Daily and Monthly Sales Trends.
