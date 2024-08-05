@@ -1,4 +1,6 @@
 # Pizza-Sales-Analysis
+![Pizza Sales](https://github.com/user-attachments/assets/af180ec0-de16-4d52-b7f0-1888c20ab345)
+
 A Power BI-driven analysis of sales trends, product performance, and customer preferences to find insights and help grow the business with informed choices.
 
 ### Introduction
