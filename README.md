@@ -41,7 +41,7 @@ A comprehensive Power BI dashboard was created to visualize and analyze the data
 - Percentage Sales by Pizza Category and Size.
 
 ### SQL Queries and Answers
-Check the SQL work done for this project.[Pizza Sales SQL Queries.pdf](https://github.com/user-attachments/files/16498555/Pizza.Sales.SQL.Queries.pdf)
+Check the SQL work done for this project. [Pizza Sales SQL Queries.pdf](https://github.com/user-attachments/files/16498555/Pizza.Sales.SQL.Queries.pdf)
 ### Insights
 Key insights from the analysis include:
 
